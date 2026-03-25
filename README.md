@@ -1,5 +1,10 @@
 # Understanding-CNN-Generalisation-with-Data-Augmentation-on-CIFAR-10
-# Improving CNN Generalisation with Data Augmentation on CIFAR-10
+
+Video link
+**https://drive.google.com/file/d/1XAd5qsRyVIIibQYTeHygF6306TvsOROR/view?usp=sharing**
+
+Dev community link
+**https://dev.to/maxwell_ororho/understanding-cnn-generalisation-with-data-augmentation-tensorflow-cifar-10-5o7**
 
 A TensorFlow CNN tutorial implemented in Google Colab, exploring how different levels of data augmentation affect model generalisation on the CIFAR-10 image classification dataset.
 
